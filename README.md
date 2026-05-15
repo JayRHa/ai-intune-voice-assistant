@@ -1,7 +1,7 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# AI Intune Voice Assistant
+# Endpoint Analytics Remediation Scripts
 
 **Archived AI voice assistant experiment for Microsoft Intune administration workflows.**
 
@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-AI Intune Voice Assistant explores AI-assisted workflows where prompts, context, and automation logic help with endpoint or operations tasks.
+Endpoint Analytics Remediation Scripts explores AI-assisted workflows where prompts, context, and automation logic help with endpoint or operations tasks.
 
 ## Project Context
 
@@ -50,17 +50,10 @@ flowchart LR
    git clone https://github.com/JayRHa/AIIntuneVoiceAssistant.git
    ```
 
-3. Continue with the project-specific documentation in the next section.
+3. Continue with the setup, usage, or workflow sections below.
 
 ---
 <!-- unified-readme:end -->
-
-<!-- project-documentation:start -->
-## Project Documentation
-
-The sections below contain the repository-specific setup, usage, and reference material for this project.
-
-# Endpoint Analytics Remediation Scripts
 
 ## Intro
 This script allows users to interact with a voice assistant that is designed to answer questions related to Microsoft Intune. The assistant is friendly, concise, and provides factual answers to queries. It does not provide answers that are not related to Microsoft products or Intune.
