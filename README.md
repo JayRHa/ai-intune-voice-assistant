@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# AI Intune Voice Assistant
+
+Archived AI voice assistant experiment for Microsoft Intune administration workflows.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| Endpoint Management | Python, AI | Public archived |
+
+**Repository:** `JayRHa/ai-intune-voice-assistant`  
+**Topics:** `microsoft-intune`, `ai`, `voice-assistant`, `python`, `automation`, `archived`
+<!-- repo-standard:end -->
+
+---
+
 # Endpoint Analytics Remediation Scripts
 
 ## Intro
