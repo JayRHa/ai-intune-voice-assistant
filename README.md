@@ -1,7 +1,7 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# Endpoint Analytics Remediation Scripts
+# AI Intune Voice Assistant
 
 **Archived AI voice assistant experiment for Microsoft Intune administration workflows.**
 
@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-Endpoint Analytics Remediation Scripts explores AI-assisted workflows where prompts, context, and automation logic help with endpoint or operations tasks.
+AI Intune Voice Assistant explores AI-assisted workflows where prompts, context, and automation logic help with endpoint or operations tasks.
 
 ## Project Context
 
